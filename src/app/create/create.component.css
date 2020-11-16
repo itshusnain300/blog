@@ -1,0 +1,54 @@
+#comments {
+    margin-top: 65px;
+}
+ .comment-reply-title {
+    font-size: 16px;
+    margin-bottom: 25px;
+}
+label{
+color: #3f3f3f!important;
+}
+.sh-comment-form label {
+    margin-bottom: 8px;
+}
+label {
+    display: inline-block;
+    max-width: 100%;
+    margin-bottom: 5px;
+    font-weight: 700;
+}
+.sh-comments #comment {
+    height: 135px;
+    resize: none;
+}
+textarea {
+    height: 120px;
+    padding: 18px 24px;
+}
+input[type=text], input[type=password], input[type=email], input[type=tel], input[type=date], input[type=url], select, textarea {
+    border: 1px solid #e3e3e3;
+    color: #8d8d8d;
+    display: block;
+    width: 100%;
+    margin-bottom: 10px;
+    -webkit-appearance: none;
+}
+button, input, select, textarea {
+    font-family: inherit;
+    font-size: inherit;
+    line-height: inherit;
+}
+textarea {
+    overflow: auto;
+}
+button, input, optgroup, select, textarea {
+    margin: 0;
+    font: inherit;
+    color: inherit;
+}
+
+i{
+    
+    color: #47c9e5!important;
+
+}
